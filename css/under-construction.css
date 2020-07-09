@@ -49,4 +49,27 @@ body {
 
 .repo-link:hover {
     font-size: 20px;
+} 
+
+@media screen and (max-width: 992px) { 
+    /* .wrapper { 
+        height: 100%; 
+        margin-top: auto; 
+        justify-content: space-between; 
+        align-self: center; 
+    } */
+    .wrapper h1 {
+        font-size: 20px; 
+        width: 30vh; 
+        border-width: 3px; 
+    }
+    .wrapper img {
+        height: 25vh; 
+    } 
+    .wrapper p {
+        font-size: 15px; 
+    } 
+    .repo-link:hover {
+        font-size: 17px;
+    }
 }
