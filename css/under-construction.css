@@ -24,17 +24,10 @@ body {
     align-items: center;
 }
 
-.wrapper h1 {
-    margin: 25px;
-    padding: 25px;
-    border-bottom: 4px solid var(--gray);
-    width: 100vh;
-}
-
 .wrapper img {
     padding: 15px;
     width: auto;
-    height: 65vh;
+    height: 25vh;
 }
 
 .wrapper p {
